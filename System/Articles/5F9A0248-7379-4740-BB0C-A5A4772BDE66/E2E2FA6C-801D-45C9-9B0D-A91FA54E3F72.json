@@ -40,9 +40,18 @@
       "_class": "overrideValue",
       "overrideName": "B2D2DD04-ADE4-463C-8175-5AC1DDB76C31_symbolID",
       "value": "AD65C763-0180-4430-A9E9-F739B9958389"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C4FA042D-B94C-4B42-8C53-30797E47FB0C",
+      "overrideName": "AA354B97-F6A9-4003-8019-324CD72DF7A7/5A9E65A0-1FE2-4AAC-A97A-BC40562E3026_stringValue",
+      "value": "ES-08360-Canet de Mar - ES-08801-Vilanova I La Geltru"
     }
   ],
   "overrides": {
+    "AA354B97-F6A9-4003-8019-324CD72DF7A7": {
+      "5A9E65A0-1FE2-4AAC-A97A-BC40562E3026": "ES-08360-Canet de Mar - ES-08801-Vilanova I La Geltru"
+    },
     "B2D2DD04-ADE4-463C-8175-5AC1DDB76C31": {
       "symbolID": "AD65C763-0180-4430-A9E9-F739B9958389"
     },
