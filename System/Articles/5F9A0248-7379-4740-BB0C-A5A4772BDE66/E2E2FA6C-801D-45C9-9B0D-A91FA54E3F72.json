@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E2E2FA6C-801D-45C9-9B0D-A91FA54E3F72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 136,
+    "width": 398,
+    "x": 8,
+    "y": 136
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 4,
+  "masterInfluenceEdgeMaxYPadding": 6,
+  "masterInfluenceEdgeMinXPadding": 4,
+  "masterInfluenceEdgeMinYPadding": 2,
+  "name": "Stacked/Card-primary Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C90311A8-CD90-478F-A2EA-676333AB4898/8FD01862-9C62-4EA2-8E84-16B5B6D8F0BE_stringValue",
+      "value": "ES-08360-Canet de Mar - ES-08801-Vilanova I La Geltru"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B2D2DD04-ADE4-463C-8175-5AC1DDB76C31_symbolID",
+      "value": "AD65C763-0180-4430-A9E9-F739B9958389"
+    }
+  ],
+  "overrides": {
+    "B2D2DD04-ADE4-463C-8175-5AC1DDB76C31": {
+      "symbolID": "AD65C763-0180-4430-A9E9-F739B9958389"
+    },
+    "C90311A8-CD90-478F-A2EA-676333AB4898": {
+      "8FD01862-9C62-4EA2-8E84-16B5B6D8F0BE": "ES-08360-Canet de Mar - ES-08801-Vilanova I La Geltru"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3B635861-DFB9-4FFC-A4DE-DF800F7A757D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

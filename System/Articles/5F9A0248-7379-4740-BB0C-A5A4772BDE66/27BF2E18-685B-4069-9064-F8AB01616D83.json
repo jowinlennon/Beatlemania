@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "27BF2E18-685B-4069-9064-F8AB01616D83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 120,
+    "width": 398,
+    "x": 8,
+    "y": 8
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 4,
+  "masterInfluenceEdgeMaxYPadding": 6,
+  "masterInfluenceEdgeMinXPadding": 4,
+  "masterInfluenceEdgeMinYPadding": 2,
+  "name": "Stacked/Card-primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B2D2DD04-ADE4-463C-8175-5AC1DDB76C31_symbolID",
+      "value": "AD65C763-0180-4430-A9E9-F739B9958389"
+    }
+  ],
+  "overrides": {
+    "B2D2DD04-ADE4-463C-8175-5AC1DDB76C31": {
+      "symbolID": "AD65C763-0180-4430-A9E9-F739B9958389"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3B635861-DFB9-4FFC-A4DE-DF800F7A757D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

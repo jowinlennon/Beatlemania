@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "91BA5FE1-A399-4978-9736-580ACEE50CA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 414,
+    "x": 0,
+    "y": 160
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Main card with avatar Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2B23DB33-9013-4873-837F-DC76B58A30ED/A2B18D73-4A8B-4601-8BA9-BB670BF8FA13/8FD01862-9C62-4EA2-8E84-16B5B6D8F0BE_stringValue",
+      "value": "ES-08360-Canet de Mar - ES-08801-Vilanova I La Geltru"
+    }
+  ],
+  "overrides": {
+    "2B23DB33-9013-4873-837F-DC76B58A30ED": {
+      "A2B18D73-4A8B-4601-8BA9-BB670BF8FA13": {
+        "8FD01862-9C62-4EA2-8E84-16B5B6D8F0BE": "ES-08360-Canet de Mar - ES-08801-Vilanova I La Geltru"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2F0DD0D7-C736-4FC5-B593-738D1B176A10",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
