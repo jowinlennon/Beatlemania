@@ -1,0 +1,66 @@
+{
+  "_class": "page",
+  "do_objectID": "02B30A92-4CDD-4B33-B5AC-89E90B73BA8E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -473,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "0B8B327E-730B-4344-8E00-6C46AACEA87C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "24B1031A-FFEC-4243-8DEA-D99EE9A27B9E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B083CD11-6961-4FC9-B97B-69E1E33B46B3"
+    }
+  ],
+  "name": "Covers",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -414,
+    "guides": [
+    ]
+  }
+}
