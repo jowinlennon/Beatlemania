@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "118D918F-2A99-4CA1-89C4-577C031C86F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 130,
+    "width": 414,
+    "x": 0,
+    "y": 1300
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "s we",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A0574F3E-3840-42E5-B734-0F91EE97E682",
+      "overrideName": "11795402-81E5-4FE0-AF81-99D7D10EBF8F_stringValue",
+      "value": "We Can Work It Out / Day Tripper"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "19D36066-E1E4-498B-A126-6CF01659A896",
+      "overrideName": "88C5FEBA-3950-4A68-9154-AB191E9D1D3C_stringValue",
+      "value": "1965"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "10433AF9-2DD2-4C4A-B473-B5A12598C695",
+      "overrideName": "76E62431-3E94-4366-9A2D-763005EFBE67_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/5c7432afd9368b82ee822a24cf8e85390b3f0fa5",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "11795402-81E5-4FE0-AF81-99D7D10EBF8F": "We Can Work It Out / Day Tripper",
+    "76E62431-3E94-4366-9A2D-763005EFBE67": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/5c7432afd9368b82ee822a24cf8e85390b3f0fa5",
+      "_ref_class": "MSImageData"
+    },
+    "88C5FEBA-3950-4A68-9154-AB191E9D1D3C": "1965"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "70AB054E-EF22-4C87-ABA2-E7BA8CAC957E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

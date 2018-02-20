@@ -1,0 +1,131 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "A8F3FD29-10F0-4995-88B9-DD91F2A0D16E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1459,
+    "width": 414,
+    "x": 895,
+    "y": 340
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": true,
+    "thickGridTimes": 1
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D5BD145A-7E23-4C0F-8F26-A4B3131BFCB2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AA8611B0-0EA1-45FB-9D4D-B845A9647284"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E2AAC371-950B-4E93-BD8F-CF8F25496B52"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5CBE5B90-99B0-499D-A3AC-065D587954CC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5ACF2738-5C15-4848-8B10-78B89B8013D0"
+    },
+    {
+      "class": "text",
+      "id": "91360C5E-6AEC-44B5-8DC0-AFB86605ADC0"
+    },
+    {
+      "class": "text",
+      "id": "83F8ED36-B295-420B-BCFA-7273D58A6F2E"
+    },
+    {
+      "class": "text",
+      "id": "1682EC35-7371-41CA-9900-EE123F9AC43D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D33962EF-604A-4355-83BF-BF01491E690A"
+    },
+    {
+      "class": "group",
+      "id": "C722B058-AC4C-468E-8C0A-2DFC91D70517"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 29.5,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 414
+  },
+  "name": "Page",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

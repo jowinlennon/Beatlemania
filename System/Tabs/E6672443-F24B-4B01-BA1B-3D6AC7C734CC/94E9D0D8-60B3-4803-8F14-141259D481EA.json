@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
+    "height": 60,
     "width": 96,
     "x": 0,
     "y": 0
@@ -60,5 +60,11 @@
     "startDecorationType": 0
   },
   "symbolID": "52687D55-F584-4506-8FB6-600A55D36609",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

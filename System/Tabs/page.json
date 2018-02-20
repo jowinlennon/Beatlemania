@@ -39,6 +39,10 @@
     {
       "class": "artboard",
       "id": "E6672443-F24B-4B01-BA1B-3D6AC7C734CC"
+    },
+    {
+      "class": "bitmap",
+      "id": "8D0AF154-3E62-4A86-A8F0-4DE95CF8208B"
     }
   ],
   "name": "Tabs",

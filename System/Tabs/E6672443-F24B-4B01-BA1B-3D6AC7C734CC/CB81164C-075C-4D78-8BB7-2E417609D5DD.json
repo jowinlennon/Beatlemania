@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
+    "height": 60,
     "width": 96,
     "x": 96,
     "y": 0
@@ -35,7 +35,7 @@
       "_class": "overrideValue",
       "do_objectID": "E21DB8B7-0AB1-4D3B-890A-98F8D41CEFBF",
       "overrideName": "DA59F17E-0782-40F8-B4C3-CB21ED91D590_symbolID",
-      "value": "33EB6498-BFAE-493F-AB99-30EDDBA5B464"
+      "value": ""
     },
     {
       "_class": "overrideValue",
@@ -54,7 +54,7 @@
     "43FB0423-EC32-4173-9C09-B92C2C320F40": " ",
     "9224821B-660B-4B30-ADD0-B79E720093DD": "Central",
     "DA59F17E-0782-40F8-B4C3-CB21ED91D590": {
-      "symbolID": "33EB6498-BFAE-493F-AB99-30EDDBA5B464"
+      "symbolID": ""
     }
   },
   "resizingConstraint": 63,
@@ -69,5 +69,11 @@
     "startDecorationType": 0
   },
   "symbolID": "52687D55-F584-4506-8FB6-600A55D36609",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

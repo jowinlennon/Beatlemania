@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2E860CC0-87E4-4C30-BCE2-8FDE836CB22C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 130,
+    "width": 414,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "s love",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BBAB728E-650B-4B0D-89EB-2DF43D5669E9",
+      "overrideName": "11795402-81E5-4FE0-AF81-99D7D10EBF8F_stringValue",
+      "value": "Love Me Do"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A589C83B-682F-4450-B695-6612B6EDE93E",
+      "overrideName": "88C5FEBA-3950-4A68-9154-AB191E9D1D3C_stringValue",
+      "value": "1962"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "867F8278-B715-476E-95A3-1799549DC537",
+      "overrideName": "76E62431-3E94-4366-9A2D-763005EFBE67_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8a727d7bb4011a40657214b859ab531173694249",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "11795402-81E5-4FE0-AF81-99D7D10EBF8F": "Love Me Do",
+    "76E62431-3E94-4366-9A2D-763005EFBE67": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/8a727d7bb4011a40657214b859ab531173694249",
+      "_ref_class": "MSImageData"
+    },
+    "88C5FEBA-3950-4A68-9154-AB191E9D1D3C": "1962"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "70AB054E-EF22-4C87-ABA2-E7BA8CAC957E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

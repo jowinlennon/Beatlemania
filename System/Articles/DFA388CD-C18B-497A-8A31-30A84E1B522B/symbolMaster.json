@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1665,
+  "changeIdentifier": 1675,
   "do_objectID": "DFA388CD-C18B-497A-8A31-30A84E1B522B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,8 +26,14 @@
     "x": -4,
     "y": 929
   },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": true,
+    "thickGridTimes": 1
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,

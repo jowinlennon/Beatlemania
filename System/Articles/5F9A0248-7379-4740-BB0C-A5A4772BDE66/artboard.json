@@ -27,7 +27,7 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "gridSize": 8,
+    "gridSize": 10,
     "isEnabled": true,
     "thickGridTimes": 1
   },

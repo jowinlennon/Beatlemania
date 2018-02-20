@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A1DC448B-FAD0-4F4E-B1BD-FCC9174928F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 130,
+    "width": 414,
+    "x": 0,
+    "y": 1060
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "a magical",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FF5BC6B3-7F05-4620-842C-ABABD3925085",
+      "overrideName": "11795402-81E5-4FE0-AF81-99D7D10EBF8F_stringValue",
+      "value": "Magical Mystery Tour"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9C9496D5-B269-468D-A91A-0F48DE8E8D97",
+      "overrideName": "88C5FEBA-3950-4A68-9154-AB191E9D1D3C_stringValue",
+      "value": "1967"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1407FB9A-8A65-4A73-83C9-5ADE0875B36F",
+      "overrideName": "76E62431-3E94-4366-9A2D-763005EFBE67_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/50a186b8e24ac480c144f557f3816f87bbe081a3",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "11795402-81E5-4FE0-AF81-99D7D10EBF8F": "Magical Mystery Tour",
+    "76E62431-3E94-4366-9A2D-763005EFBE67": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/50a186b8e24ac480c144f557f3816f87bbe081a3",
+      "_ref_class": "MSImageData"
+    },
+    "88C5FEBA-3950-4A68-9154-AB191E9D1D3C": "1967"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "70AB054E-EF22-4C87-ABA2-E7BA8CAC957E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

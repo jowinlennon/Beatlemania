@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "AF2A49ED-C07D-4384-B427-B20FE32F2CD4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 130,
+    "width": 414,
+    "x": 0,
+    "y": 780
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "a revolver",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4CAE41E0-3289-4D02-BEE7-2CB573D0DF74",
+      "overrideName": "11795402-81E5-4FE0-AF81-99D7D10EBF8F_stringValue",
+      "value": "Revolver"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CA3C64DE-D883-44C8-B9BD-F369EC5C5058",
+      "overrideName": "88C5FEBA-3950-4A68-9154-AB191E9D1D3C_stringValue",
+      "value": "1966"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F287AB10-88B7-49E8-887C-CD21D916D357",
+      "overrideName": "76E62431-3E94-4366-9A2D-763005EFBE67_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0a00021357425ffc59167a83691baa4b9941118f",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "11795402-81E5-4FE0-AF81-99D7D10EBF8F": "Revolver",
+    "76E62431-3E94-4366-9A2D-763005EFBE67": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/0a00021357425ffc59167a83691baa4b9941118f",
+      "_ref_class": "MSImageData"
+    },
+    "88C5FEBA-3950-4A68-9154-AB191E9D1D3C": "1966"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "70AB054E-EF22-4C87-ABA2-E7BA8CAC957E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
